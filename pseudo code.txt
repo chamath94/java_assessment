@@ -1,0 +1,30 @@
+pseudo code for algorithm 1
+
+set j to 0
+for j<studentMarks.length
+    j=j+1
+    Display studentMarks
+
+Array sort
+Display max value
+Display min value
+
+
+
+
+pseudo code for algorithm 2
+
+set sum to 0
+set k 
+    sum = k+1
+
+mean = sum/studentMarks.length
+Display mean 
+
+set sum2 to 0
+set k
+    sum2 = (k-mean)^2
+
+set standardDeviation to 0
+standardDeviation = (sum2/(studentMarks.length-1))^(1/2)
+Display standardDeviation
